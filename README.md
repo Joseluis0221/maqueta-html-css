@@ -1,2 +1,2 @@
 # maqueta-html-css
-Maquetación HTML y CSS ejercicio de clase
+Maquetacion HTML y CSS ejercicio de clase
