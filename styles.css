@@ -4,6 +4,7 @@ body{
     background:#e3f2fd;
 }
 
+
 header{
     background:#3a3a3a;
     color:white;
@@ -13,6 +14,7 @@ header{
     padding:20px 40px;
 }
 
+
 header h2{
     margin:0;
     font-size:28px;
@@ -20,6 +22,7 @@ header h2{
     letter-spacing:2px;
     text-transform:uppercase;
 }
+
 
 nav a{
     color:white;
